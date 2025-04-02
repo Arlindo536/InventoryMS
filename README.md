@@ -13,6 +13,8 @@ The Inventory Management System is a Java-based application designed for small b
 - **Sorting Options**: Sort products by price using merge sort
 - **Inventory Valuation**: Calculate total inventory value recursively
 
+  [Summary](summary.md)
+
 ## 📁Data Structures
 
 This project implements the following data structures:
